@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Bot Interface</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="EXTRA_MESSAGE"></string>
+    <string name="more_extra">Say Hello!</string>
+</resources>
